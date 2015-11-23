@@ -163,7 +163,7 @@ function allclear(){
 		console.log("gizle  2 sec c "+altbtn[1].dispatchEvent(evt));
 			scroll();
 	}
-	else if (altbtn.length == 4)
+	else if (altbtn.length == 3)
 	{
 		console.log("izin verme 3 sec c "+altbtn[1].dispatchEvent(evt));
 			scroll();
