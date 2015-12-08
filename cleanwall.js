@@ -1,14 +1,6 @@
 /*
-
-	Metin YILDIRIM
-
-	CleanWall 2.0
-
-	bilgisayarkocani.tk
-*/
-
-//Dont Use these variables
-//key, del, x, y
+ *	Metin YILDIRIM
+ */
 
 //Boxs
 var clicker, infoweb, acttask, error;
